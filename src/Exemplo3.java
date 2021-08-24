@@ -17,7 +17,7 @@ public class Exemplo3 extends JFrame implements ActionListener {
         this.setSize(500, 350);
         this.setResizable(false);
 
-        Font f = new Font("SansSerif", Font.PLAIN, 20);
+        Font f = new Font("SansSerif", Font.PLAIN, 19);
 
         lblValor1 = new JLabel("Valor 1:", JLabel.RIGHT);
         lblValor1.setFont(f);
